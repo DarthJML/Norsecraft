@@ -491,7 +491,7 @@ const DRAW = {
     ctx.fillText('NORSECRAFT', TW / 2, 300);
     ctx.restore();
     label(ctx, 'Free to play in your browser', TW / 2, 370, fade(t, 1.0, 7), 30, '#e9e1cf', 'Alegreya Sans, sans-serif', 500);
-    label(ctx, 'poptartsmmmgood117-bit.github.io/Norsecraft', TW / 2, 420, fade(t, 1.4, 7), 24, '#9fe8ff', 'Alegreya Sans, sans-serif', 700);
+    label(ctx, 'darthjml.github.io/Norsecraft', TW / 2, 420, fade(t, 1.4, 7), 24, '#9fe8ff', 'Alegreya Sans, sans-serif', 700);
     label(ctx, 'Every sprite, building and note made in code', TW / 2, 470, fade(t, 2.0, 7), 18, '#a99f8a');
     if (t > 0.2 && t < 0.35) Tr.cue('drum');
   },
